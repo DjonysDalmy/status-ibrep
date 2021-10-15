@@ -29,7 +29,7 @@ sites:
   - name: Loja ICETRAN
     url: https://eadicetran.com.br/painel/
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
-    maxResponseTime: 10000
+    maxResponseTime: 90000
   - name: Oráculo ICETRAN - Aluno
     url: https://icetran.alfamaoraculo.com.br/aluno/
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
