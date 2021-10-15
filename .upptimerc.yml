@@ -22,8 +22,10 @@ sites:
     icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
   - name: Oráculo IBREP - Gestor
     url: https://ibrep.alfamaoraculo.com.br/gestor/
+    icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
   - name: Oráculo IBREP - Vendedor
     url: https://ibrep.alfamaoraculo.com.br/vendedor/
+    icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
   - name: Oráculo IBREP - Professor
     url: https://ibrep.alfamaoraculo.com.br/professor/
     icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
