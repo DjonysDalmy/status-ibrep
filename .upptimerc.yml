@@ -48,6 +48,13 @@ sites:
     expectedStatusCodes:
       - 403
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/150px-Bandeira_do_Rio_Grande_do_Sul.svg.png
+  - name: API Detran MT
+    url: http://ws.detrannet.mt.gov.br:8080/wsEventoCurso/wsEventoCurso.asmx
+    __dangerous__insecure: true
+    method: POST
+    expectedStatusCodes:
+      - 403
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/150px-Bandeira_de_Mato_Grosso.svg.png
 
 status-website:
   baseUrl: /status-ibrep
