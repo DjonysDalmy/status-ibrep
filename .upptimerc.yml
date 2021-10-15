@@ -34,8 +34,8 @@ sites:
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
 
 status-website:
-  baseUrl: /
-  name: IBREP
+  baseUrl: /status-ibrep
+  name: Status
 
 i18n:
   activeIncidents: Erros em andamento
