@@ -54,6 +54,8 @@ status-website:
   #cname: status.ibrep.com.br # Custom domain CNAME
   name: Status
   theme: night
+  introMessage: Essa página realiza requisições para diveros serviços e disponibiliza em tempo real o status dessas aplicações. Confira o status de outros serviçoes que podem ser do seu interesse -> (Slack)[https://status.slack.com/] (Google Workspace)[https://www.google.com/appsstatus/dashboard/] (Google Cloud)[https://status.cloud.google.com/] (AWS)[https://status.aws.amazon.com/] (Zoom)[https://status.zoom.us/] (Azure)[https://status.azure.com/pt-br/status] (Facebook)[https://status.fb.com/] (Downdetector)[https://downdetector.com.br/]
+
 
 i18n:
   activeIncidents: Erros em andamento
