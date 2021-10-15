@@ -50,8 +50,8 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/150px-Bandeira_do_Rio_Grande_do_Sul.svg.png
 
 status-website:
-  #baseUrl: /status-ibrep
-  cname: status.ibrep.com.br # Custom domain CNAME
+  baseUrl: /status-ibrep
+  #cname: status.ibrep.com.br # Custom domain CNAME
   name: Status
   theme: night
 
