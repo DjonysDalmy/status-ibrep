@@ -8,6 +8,12 @@ sites:
   - name: Site IBREP
     url: https://ibrep.com.br
     icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
+  - name: API Site IBREP
+    url: https://ibrep.com.br/api/ibrep/public/index.php/
+    icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
+  - name: APP IBREP
+    url: https://app.ibrep.com.br
+    icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
   - name: Oráculo IBREP - Aluno
     url: https://ibrep.alfamaoraculo.com.br/aluno/
     icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
@@ -32,6 +38,15 @@ sites:
   - name: Oráculo ICETRAN - Gestor
     url: https://icetran.alfamaoraculo.com.br/gestor/
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
+  - name: API Detran RS
+    url: https://mgfc.detran.rs.gov.br/gfc/rest/gfcmobile/cursoEAD/validaAluno
+    __dangerous__disable_verify_host: true
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ }'
+    expectedStatusCodes:
+      - 403
 
 status-website:
   baseUrl: /status-ibrep
