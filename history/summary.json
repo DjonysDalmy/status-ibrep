@@ -223,18 +223,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/150px-Bandeira_de_Mato_Grosso.svg.png",
     "slug": "api-detran-mt",
     "status": "up",
-    "uptime": "1.78%",
-    "uptimeDay": "1.78%",
-    "uptimeWeek": "1.78%",
-    "uptimeMonth": "1.78%",
-    "uptimeYear": "1.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1718,
     "timeDay": 1718,
     "timeWeek": 1718,
     "timeMonth": 1718,
     "timeYear": 1718,
-    "dailyMinutesDown": {
-      "2021-10-15": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
