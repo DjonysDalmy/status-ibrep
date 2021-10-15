@@ -47,6 +47,7 @@ sites:
     body: '{ }'
     expectedStatusCodes:
       - 403
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/150px-Bandeira_do_Rio_Grande_do_Sul.svg.png
 
 status-website:
   baseUrl: /status-ibrep
