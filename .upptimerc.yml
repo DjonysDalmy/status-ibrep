@@ -37,7 +37,7 @@ status-website:
   baseUrl: /status-ibrep
   #cname: status.ibrep.com.br # Custom domain CNAME
   name: Status
-  theme: dark
+  theme: night
 
 i18n:
   activeIncidents: Erros em andamento
