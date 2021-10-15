@@ -40,7 +40,7 @@ sites:
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
   - name: API Detran RS
     url: https://mgfc.detran.rs.gov.br/gfc/rest/gfcmobile/cursoEAD/validaAluno
-    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
     method: POST
     headers:
       - "Content-Type: application/json"
