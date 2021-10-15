@@ -52,6 +52,8 @@ sites:
     url: http://ws.detrannet.mt.gov.br:8080/wsEventoCurso/wsEventoCurso.asmx
     __dangerous__insecure: true
     method: POST
+    headers:
+      - "Content-Length: 0"
     expectedStatusCodes:
       - 403
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/150px-Bandeira_de_Mato_Grosso.svg.png
