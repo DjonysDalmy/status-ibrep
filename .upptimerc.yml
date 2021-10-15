@@ -19,6 +19,10 @@ sites:
     icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
   - name: Oráculo IBREP - Gestor
     url: https://ibrep.alfamaoraculo.com.br/gestor/
+  - name: Oráculo IBREP - Vendedor
+    url: https://ibrep.alfamaoraculo.com.br/vendedor/
+  - name: Oráculo IBREP - Professor
+    url: https://ibrep.alfamaoraculo.com.br/professor/
     icon: https://app.ibrep.com.br/techdesk/icon/IBREP.png
   - name: Site IBREPTRAN
     url: https://ibreptran.ibrep.com.br/
@@ -29,6 +33,15 @@ sites:
   - name: Oráculo IBREPTRAN - Gestor
     url: https://ibreptran.alfamaoraculo.com.br/gestor/
     icon: https://app.ibrep.com.br/techdesk/icon/IBREPTRAN.png
+  - name: Oráculo IBREPTRAN - CFC
+    url: https://ibreptran.alfamaoraculo.com.br/cfc/
+    icon: https://app.ibrep.com.br/techdesk/icon/IBREPTRAN.png
+  - name: Oráculo IBREPTRAN - Atendente
+    url: https://ibreptran.alfamaoraculo.com.br/atendente/
+    icon: https://app.ibrep.com.br/techdesk/icon/IBREPTRAN.png
+  - name: Oráculo IBREPTRAN - Professor
+    url: https://ibreptran.alfamaoraculo.com.br/professor/
+    icon: https://app.ibrep.com.br/techdesk/icon/IBREPTRAN.png
   - name: Site ICETRAN
     url: https://icetran.com.br
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
@@ -37,6 +50,15 @@ sites:
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
   - name: Oráculo ICETRAN - Gestor
     url: https://icetran.alfamaoraculo.com.br/gestor/
+    icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
+  - name: Oráculo ICETRAN - CFC
+    url: https://icetran.alfamaoraculo.com.br/cfc/
+    icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
+  - name: Oráculo ICETRAN - Atendente
+    url: https://icetran.alfamaoraculo.com.br/atendente/
+    icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
+  - name: Oráculo ICETRAN - Professor
+    url: https://icetran.alfamaoraculo.com.br/professor/
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
   - name: API Detran RS
     url: https://mgfc.detran.rs.gov.br/gfc/rest/gfcmobile/cursoEAD/validaAluno
