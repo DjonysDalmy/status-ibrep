@@ -34,8 +34,8 @@ sites:
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
 
 status-website:
-  #baseUrl: /repo
-  cname: status.ibrep.com.br # Custom domain CNAME
+  baseUrl: /status-ibrep
+  #cname: status.ibrep.com.br # Custom domain CNAME
   name: Status
   theme: dark
 
