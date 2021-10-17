@@ -96,12 +96,12 @@ status-website:
 
 
 i18n:
-  activeIncidents: Erros em andamento
-  allSystemsOperational: Todos os Sistemas em operação
-  incidentReport: "Erro #$NUMBER reportado →"
-  activeIncidentSummary: Aberto às $DATE com $POSTS erros
-  incidentTitle: Erro $NUMBER Detalhes
-  incidentDetails: Erro Detalhes
+  activeIncidents: Serviços fora do ar
+  allSystemsOperational: Todos os serviços em operação
+  incidentReport: "Queda #$NUMBER reportado →"
+  activeIncidentSummary: Aberto às $DATE com $POSTS comentários
+  incidentTitle: Detalhes queda $NUMBER
+  incidentDetails: Detalhes Queda
   incidentFixed: Resolvido
   incidentOngoing: Em andamento
   incidentOpenedAt: Aberto às
@@ -109,12 +109,12 @@ i18n:
   incidentSubscribe: Se inscreva para atualizações
   incidentViewOnGitHub: Ver no GitHub
   incidentCommentSummary: Postado às $DATE por $AUTHOR
-  incidentBack: ← Voltar para todos os erros
-  pastIncidents: Erros anteriores
+  incidentBack: ← Voltar para todas as quedas
+  pastIncidents: Quedas anteriores
   pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS erros
   liveStatus: Status ao Vivo
-  overallUptime: "uptime geral: $UPTIME"
-  overallUptimeTitle: uptime geral
+  overallUptime: "Uptime: $UPTIME"
+  overallUptimeTitle: Uptime
   averageResponseTime: "Tempo de resposta médio: $TIMEms"
   averageResponseTimeTitle: Tempo de resposta médio
   sevelDayResponseTime: Tempo de resposta de 7 dias
@@ -126,7 +126,7 @@ i18n:
   loading: Carregando
   navGitHub: GitHub
   footer: Powered by IBREPTEC
-  errorTitle: Um erro ocorreu
+  errorTitle: Uma queda ocorreu
   errorIntro: Ocorreu um erro ao tentar obter os detalhes de status mais recentes.
   errorText: Você pode tentar novamente em alguns instantes.
   errorHome: Voltar para Home
