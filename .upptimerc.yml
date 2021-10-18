@@ -109,7 +109,7 @@ i18n:
   incidentSubscribe: Se inscreva para atualizações
   incidentViewOnGitHub: Ver no GitHub
   incidentCommentSummary: Postado às $DATE por $AUTHOR
-  incidentBack: ← Voltar para todas as quedas
+  incidentBack: ← Voltar
   pastIncidents: Quedas anteriores
   pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS erros
   liveStatus: Status ao Vivo
