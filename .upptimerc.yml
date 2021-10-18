@@ -98,7 +98,7 @@ status-website:
 i18n:
   activeIncidents: Serviços fora do ar
   allSystemsOperational: Todos os serviços em operação
-  incidentReport: "Queda #$NUMBER reportado →"
+  incidentReport: "Queda #$NUMBER reportada →"
   activeIncidentSummary: Aberto às $DATE com $POSTS comentários
   incidentTitle: Detalhes queda $NUMBER
   incidentDetails: Detalhes Queda
