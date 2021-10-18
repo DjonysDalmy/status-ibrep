@@ -88,7 +88,7 @@ sites:
 status-website:
   #baseUrl: /status-ibrep
   cname: status.grupoibrep.com
-  logoUrl: https://app.ibrep.com.br/assets/icons/cropped-favicon-192x192.png
+  favicon: https://app.ibrep.com.br/assets/icons/cropped-favicon-192x192.png
   name: Status - Grupo IBREP
   theme: night
   introTitle: "**Status**"
