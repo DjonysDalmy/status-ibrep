@@ -1,7 +1,7 @@
 url: http://ws.detrannet.mt.gov.br:8080/wsEventoCurso/wsEventoCurso.asmx
 status: up
 code: 403
-responseTime: 1563
-lastUpdated: 2021-10-18T00:02:13.255Z
+responseTime: 966
+lastUpdated: 2021-10-18T00:08:25.172Z
 startTime: Fri Oct 15 2021 17:45:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
