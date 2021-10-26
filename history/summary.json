@@ -291,19 +291,19 @@
     "url": "https://icetran.com.br",
     "icon": "https://app.ibrep.com.br/techdesk/icon/ICETRAN.png",
     "slug": "site-icetran",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2767,
-    "timeDay": 2612,
-    "timeWeek": 2643,
-    "timeMonth": 2767,
-    "timeYear": 2767,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 2766,
+    "timeDay": 2679,
+    "timeWeek": 2655,
+    "timeMonth": 2766,
+    "timeYear": 2766,
     "dailyMinutesDown": {
-      "2021-10-26": 0
+      "2021-10-26": 9
     }
   },
   {
