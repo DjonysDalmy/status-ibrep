@@ -316,19 +316,17 @@
     "icon": "https://app.ibrep.com.br/techdesk/icon/ICETRAN.png",
     "slug": "legacy-api-icetran",
     "status": "up",
-    "uptime": "12.05%",
-    "uptimeDay": "12.05%",
-    "uptimeWeek": "12.05%",
-    "uptimeMonth": "12.05%",
-    "uptimeYear": "12.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 832,
     "timeDay": 832,
     "timeWeek": 832,
     "timeMonth": 832,
     "timeYear": 832,
-    "dailyMinutesDown": {
-      "2021-10-28": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oráculo ICETRAN - Aluno",
