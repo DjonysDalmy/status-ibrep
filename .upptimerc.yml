@@ -50,6 +50,9 @@ sites:
   - name: Site ICETRAN
     url: https://icetran.com.br
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
+  - name: Legacy API ICETRAN
+    url: https://api.icetran.com.br
+    icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
   - name: Oráculo ICETRAN - Aluno
     url: https://icetran.alfamaoraculo.com.br/aluno/
     icon: https://app.ibrep.com.br/techdesk/icon/ICETRAN.png
