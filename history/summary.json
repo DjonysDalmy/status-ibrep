@@ -4,9 +4,9 @@
     "url": "https://ibrep.com.br",
     "icon": "https://app.ibrep.com.br/techdesk/icon/IBREP.png",
     "slug": "site-ibrep",
-    "status": "up",
+    "status": "down",
     "uptime": "87.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "75.64%",
     "uptimeYear": "87.40%",
@@ -16,6 +16,7 @@
     "timeMonth": 4155,
     "timeYear": 2156,
     "dailyMinutesDown": {
+      "2021-12-13": 0,
       "2021-12-03": 657,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
@@ -31,9 +32,9 @@
     "url": "https://ibrep.com.br/api/ibrep/public/index.php/",
     "icon": "https://app.ibrep.com.br/techdesk/icon/IBREP.png",
     "slug": "api-site-ibrep",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -42,7 +43,9 @@
     "timeWeek": 277,
     "timeMonth": 269,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-13": 0
+    }
   },
   {
     "name": "APP IBREP",
