@@ -371,11 +371,11 @@
     "icon": "https://app.ibrep.com.br/techdesk/icon/ICETRAN.png",
     "slug": "site-icetran",
     "status": "up",
-    "uptime": "89.15%",
+    "uptime": "89.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.15%",
+    "uptimeYear": "89.16%",
     "time": 2835,
     "timeDay": 2862,
     "timeWeek": 2971,
@@ -596,19 +596,19 @@
     "url": "http://ws.detrannet.mt.gov.br:8080/wsEventoCurso/wsEventoCurso.asmx",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/150px-Bandeira_de_Mato_Grosso.svg.png",
     "slug": "api-detran-mt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 0,
-    "timeWeek": 1134,
-    "timeMonth": 1256,
-    "timeYear": 1137,
+    "time": 1132,
+    "timeDay": 668,
+    "timeWeek": 1067,
+    "timeMonth": 1237,
+    "timeYear": 1132,
     "dailyMinutesDown": {
-      "2022-01-07": 0
+      "2022-01-07": 3
     }
   }
 ]
