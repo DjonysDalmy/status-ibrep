@@ -642,10 +642,10 @@
     "url": "http://ws.detrannet.mt.gov.br:8080/wsEventoCurso/wsEventoCurso.asmx",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/150px-Bandeira_de_Mato_Grosso.svg.png",
     "slug": "api-detran-mt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1154,
@@ -654,6 +654,7 @@
     "timeMonth": 1239,
     "timeYear": 1154,
     "dailyMinutesDown": {
+      "2022-01-18": 1,
       "2022-01-10": 17
     }
   }
