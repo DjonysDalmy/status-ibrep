@@ -1,7 +1,7 @@
 url: https://ibrep.com.br/api/ibrep/public/index.php/
-status: down
-code: 500
-responseTime: 15
-lastUpdated: 2022-06-21T07:35:15.739Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2022-06-21T07:46:31.657Z
 startTime: Fri Oct 15 2021 12:51:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
